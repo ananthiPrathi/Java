@@ -1,0 +1,2 @@
+scanner class in java
+

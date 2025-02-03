@@ -1,4 +1,4 @@
-public class Datatype
+public class Datatypecode
 {
 public static void main(String[] args)
 {
@@ -8,7 +8,7 @@ public static void main(String[] args)
   long l = 9875433;
   double d =9.0000;
   float f = 43.9876f;
-  boolean b = true;
+  boolean a = true;
   char c = 'a';
    System.out.println(i);
    System.out.println(b);
@@ -16,7 +16,7 @@ public static void main(String[] args)
    System.out.println(f);
     System.out.println(s);
     System.out.println(l);
-    System.out.println(b);
+    System.out.println(a);
     System.out.println(c);
   String name = "Ananthi";
   System.out.println(name);

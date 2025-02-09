@@ -1,12 +1,15 @@
-public class Pattern1{//Square fill pattern
+public class Pattern1
+{
  public static void main(String[] args)
 {
-  for (int i=0;i<=6;i++)
+    for(int i=0;i<6;i++)
 {
-   for(int j=0;j<=6;j++)
+   for(int j=0;j<6;j++)
 {
-     System.out.println("*" +" ");
+    System.out.print("*" +" ");
 }
-      System.out.println();
+    System.out.println();
+}
+
 }
 }
